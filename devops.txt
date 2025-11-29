@@ -1,1 +1,1 @@
-Ops is a set of practices, tools, and cultural philosophies that combine software development (\(Dev\)) and IT operations (\(Ops\)) to automate and integrate the processes between these teams. Its main goal is to break down traditional silos by promoting
+ is a set of practices, tools, and cultural philosophies that combine software development (\(Dev\)) and IT operations (\(Ops\)) to automate and integrate the processes between these teams. Its main goal is to break down traditional silos by promoting
